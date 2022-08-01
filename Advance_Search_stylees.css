@@ -1,0 +1,345 @@
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+body {
+    background: #202124;
+    min-height: 100%;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.Whole__UI {
+    min-height: 100%;
+    margin: 0 auto -60px;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.main__header {
+    background-color: rgba(32,33,36,1);
+    font: 27px Roboto,Arial,sans-serif;
+    z-index: 986;
+    color: #e8eaed;
+    min-width: 320px;
+    position: relative;
+    height:50px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.Advancedsearch__header {
+    font-size: 20px;
+    margin: 25px 35px;
+    color: #f28b82;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.Main__UI {
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+
+.Top__heading {
+    width: 100%;
+    clear: both;
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
+    color: #e8eaed;
+    font-size: 16px;
+}
+
+.Textboxes {
+    width: 100%;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.row1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    clear: both;
+}
+
+.label1 {
+    color: #bdc1c6;
+    float: left;
+    display: inline-block;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    
+}
+.textbox1 {
+    float: left;
+    display: inline-block;
+    width: 500px;
+    min-height: 41px;
+    vertical-align: middle;
+}
+
+.txt1 {
+    background: #202124;
+    border: 1px solid #5f6368;
+    color: #bdc1c6;
+    height: 25px;
+    width: 100%;
+    padding: 1px 8px;
+}
+
+.additional1{
+    color: #969ba1;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+    top:20px;
+    margin: left 20px;
+    padding-left: 720px;
+    width: 500px;
+    min-width: 160px;
+}
+
+.row2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    clear: both;
+}
+
+.label2 {
+    color: #bdc1c6;
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.textbox2 {
+    float: left;
+    display: inline-block;
+    width: 500px;
+    min-height: 41px;
+    vertical-align: middle;
+}
+
+.txt2 {
+    background: #202124;
+    border: 1px solid #5f6368;
+    color: #bdc1c6;
+    height: 25px;
+    width: 100%;
+    padding: 1px 8px;
+}
+
+.additional2 {
+    color: #969ba1;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+    top:20px;
+    margin: left 20px;
+    padding-left: 720px;
+    width: 500px;
+    min-width: 160px;
+}
+
+.row3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    clear: both;
+}
+
+.label3 {
+    color: #bdc1c6;
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.textbox3 {
+    float: left;
+    display: inline-block;
+    width: 500px;
+    min-height: 41px;
+    vertical-align: middle;
+}
+
+.txt3{
+    background: #202124;
+    border: 1px solid #5f6368;
+    color: #bdc1c6;
+    height: 25px;
+    width: 100%;
+    padding: 1px 8px;
+}
+
+.additional3 {
+    color: #969ba1;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+    top:20px;
+    margin: left 20px;
+    padding-left: 720px;
+    width: 500px;
+    min-width: 160px;
+}
+
+.row4 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    clear: both;
+}
+
+.label4 {
+    color: #bdc1c6;
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.textbox4{
+    float: left;
+    display: inline-block;
+    width: 500px;
+    min-height: 41px;
+    vertical-align: middle;
+}
+
+.txt4 {
+    background: #202124;
+    border: 1px solid #5f6368;
+    color: #bdc1c6;
+    height: 25px;
+    width: 100%;
+    padding: 1px 8px;
+}
+
+.additional4 {
+    color: #969ba1;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+    top:20px;
+    margin: left 20px;
+    padding-left: 720px;
+    width: 500px;
+    min-width: 160px;
+}
+
+.btn {
+    display: flex;
+    position: relative;
+    top:120px;
+    right:70px;
+    height: 30px;
+    padding: 0 20px; 
+}
+
+.button {
+    padding: 1px 6px;
+    width: 200px;
+    color: white;
+    background-color: #8ab4f8;;
+}
